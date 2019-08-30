@@ -1,3 +1,5 @@
+# file provided by CS50 - I did not write any of the below code.
+
 # compiler to use
 CC = clang
 
