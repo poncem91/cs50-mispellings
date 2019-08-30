@@ -1,3 +1,5 @@
+// file provided by CS50 - I did not write any of the below code in this file.
+
 // Implements a spell-checker
 
 #include <ctype.h>
