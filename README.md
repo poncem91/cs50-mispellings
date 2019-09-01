@@ -1,7 +1,7 @@
 # CS50 - Speller
 My work for CS50's Speller assignment.
 
-Implemented a dictionary to for a program that spell-checks a file.
+Implemented a dictionary for a program that spell-checks a file.
 
 The following files were provided by CS50 and I did not write any of the code from the below files:
 * speller.c
