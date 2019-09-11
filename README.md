@@ -1,5 +1,5 @@
 # CS50 - Speller
-My work for CS50's Speller assignment.
+My work for HarvardX CS50's Speller assignment.
 
 Implemented a dictionary for a program that spell-checks a file.
 
